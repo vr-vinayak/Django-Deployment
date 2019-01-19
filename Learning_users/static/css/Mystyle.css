@@ -1,0 +1,10 @@
+body{
+  background: url(StockSnap_N9ATOCDXW5.jpg);
+  background-size: cover;
+
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 18px;
+}
+input {
+   width: 250px;
+}
